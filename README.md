@@ -11,5 +11,6 @@ Bio: coming soon!
 
 ### Stephen G. Carras
 * Engineer, Cybersecurity T-Mobile
+* Graduated from Penn State
 
 Bio: coming soon!
